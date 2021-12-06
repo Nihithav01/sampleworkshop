@@ -42,3 +42,5 @@ S.No|Food
 3|Iceream
 4|Briyani
 5|Chocolates
+
+[markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
