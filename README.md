@@ -44,3 +44,15 @@ S.No|Food
 5|Chocolates
 
 [markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+~~This was a mistake~~
+
+**This text is _extremely_ important**
+
+:grinning:
+:innocent:
+:wink:
+:zany_face:
+	:sunglasses:
